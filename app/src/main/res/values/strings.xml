@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">E-Police log in</string>
+    <string name="title_activity_login">LoginActivity</string>
 </resources>
